@@ -1,0 +1,104 @@
+.box2 {
+    display:flex;
+    flex-wrap: nowrap;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.laterale{
+    width:30%;
+    min-height: 500px;
+    background-color: grey;
+    padding-left:0px;
+    padding-top:20px;
+    color:black;
+}
+.laterale h3{
+    opacity: 0;
+}
+
+.articolo{
+    margin-left: 20px;
+}
+
+.iscrizione18{
+    min-height:400px;
+    
+}
+
+.infoinscrizione{
+    border-style: solid;
+    border-color:rgb(58, 174, 247);
+    margin:10px;
+    margin-top:0px;
+}
+
+.formEpayp {
+    display: flex;
+    flex-direction: column;
+    
+}
+.payp{
+    margin: 21px auto 0px;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 23px;
+    width: 50px;
+    text-align: center;
+    margin: 5px 2px;
+  }
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+ 
+  }
+
+  .fa-instagram {
+    background: #da370f;
+    color: white;
+  }
+
+  .infopartita {
+    display:flex;
+    flex-direction: row;
+  }
+  
+
+@media (max-width: 500px) {
+    .box2 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 0%;
+    }
+    .laterale {
+        width:100%;
+        min-height:100px;
+    }
+    .laterale h3{
+        opacity: 1;
+        text-align: center;
+    }
+    .articolo {
+        margin-top:15px;
+        margin-left: 0;
+    }
+
+    .iscrizione18{
+        margin-top:50px;
+    }
+    .formEpayp {
+        display: flex;
+        flex-direction: column;
+    }
+
+}
+
+
+
+
+
+

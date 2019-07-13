@@ -1,0 +1,21 @@
+[18-Sep-2018 17:26:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/napolic1/public_html/model/dao_inscription.php:118) in /home/napolic1/public_html/model/dao_inscription.php on line 135
+[18-Sep-2018 20:02:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/napolic1/public_html/model/dao_inscription.php:118) in /home/napolic1/public_html/model/dao_inscription.php on line 135
+[18-Sep-2018 20:57:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/napolic1/public_html/model/dao_inscription.php:118) in /home/napolic1/public_html/model/dao_inscription.php on line 135
+[23-Sep-2018 12:33:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/napolic1/public_html/model/dao_inscription.php:118) in /home/napolic1/public_html/model/dao_inscription.php on line 135
+[24-Sep-2018 06:32:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/napolic1/public_html/model/dao_iscrizioniAdistanza.php:103) in /home/napolic1/public_html/model/dao_iscrizioniAdistanza.php on line 120
+[26-Sep-2018 19:00:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/napolic1/public_html/model/dao_inscription.php:118) in /home/napolic1/public_html/model/dao_inscription.php on line 135
+[26-Sep-2018 19:51:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/napolic1/public_html/model/dao_inscription.php:118) in /home/napolic1/public_html/model/dao_inscription.php on line 135
+[27-Sep-2018 21:40:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/napolic1/public_html/model/dao_nextMatch.php on line 21
+[27-Sep-2018 21:41:09 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/napolic1/public_html/model/dao_nextMatch.php on line 21
+[27-Sep-2018 21:41:16 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/napolic1/public_html/model/dao_nextMatch.php on line 21
+[27-Sep-2018 21:47:53 UTC] PHP Warning:  Illegal string offset 'id' in /home/napolic1/public_html/model/dao_nextMatch.php on line 21
+[27-Sep-2018 21:47:53 UTC] PHP Warning:  Illegal string offset 'avversaria' in /home/napolic1/public_html/model/dao_nextMatch.php on line 22
+[27-Sep-2018 21:47:53 UTC] PHP Warning:  Illegal string offset 'dataPartita' in /home/napolic1/public_html/model/dao_nextMatch.php on line 23
+[27-Sep-2018 21:47:53 UTC] PHP Warning:  Illegal string offset 'incasa' in /home/napolic1/public_html/model/dao_nextMatch.php on line 24
+[27-Sep-2018 21:47:53 UTC] PHP Warning:  Illegal string offset 'location' in /home/napolic1/public_html/model/dao_nextMatch.php on line 25
+[27-Sep-2018 21:48:08 UTC] PHP Warning:  Illegal string offset 'id' in /home/napolic1/public_html/model/dao_nextMatch.php on line 21
+[27-Sep-2018 21:48:08 UTC] PHP Warning:  Illegal string offset 'avversaria' in /home/napolic1/public_html/model/dao_nextMatch.php on line 22
+[27-Sep-2018 21:48:08 UTC] PHP Warning:  Illegal string offset 'dataPartita' in /home/napolic1/public_html/model/dao_nextMatch.php on line 23
+[27-Sep-2018 21:48:08 UTC] PHP Warning:  Illegal string offset 'incasa' in /home/napolic1/public_html/model/dao_nextMatch.php on line 24
+[27-Sep-2018 21:48:08 UTC] PHP Warning:  Illegal string offset 'location' in /home/napolic1/public_html/model/dao_nextMatch.php on line 25
+[27-Sep-2018 21:50:41 UTC] PHP Fatal error:  Call to a member function fetch() on string in /home/napolic1/public_html/model/dao_nextMatch.php on line 21
